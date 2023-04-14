@@ -2,7 +2,7 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 git status: Este comando se usa para obtener el estado actual del repositorio.
 
-git clone: Este comando se usa para clonar un repositorio publico.
+git clone: Este comando se usa para clonar un repositorio publico. 
 
 git pull: Este comando se usa para bajar la ultima version del codigo. 
 
@@ -10,7 +10,7 @@ git checkout: Este comando se usa para pasarme a otra branch.
 
 git log: Este comando se usa para ver el historial del codigo.
 
-git branch: Este comando se usa para crear una nueva branch.
+git branch: Este comando se usa para crear una nueva branch (rama).
 
 git add: Este comando se usa para Agregar un nuevo cambio.
 
